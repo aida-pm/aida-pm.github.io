@@ -14,9 +14,9 @@ minimal_mistakes_skin    : "neon"
 locale                   : "en-US"
 title                    : "Aida Perramon Malavez"
 title_separator          : "|"
-subtitle                 : "Infectious Disease Modeller · Postdoc at Erasmus MC"
+subtitle                 : "Postdoctoral researcher @ Erasmus MC"
 name                     : "Aida Perramon Malavez"
-description              : "Personal research portfolio — mathematical modelling, infectious diseases, and children's public health."
+description              : "Personal research portfolio"
 url                      : "https://aida-pm.github.io"
 baseurl                  : ""
 repository               : "aida-pm/aida-pm.github.io"
@@ -25,10 +25,10 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Aida Perramon Malavez"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Physics Engineer turned infectious disease modeller. PhD from UPC Barcelona. Postdoc at Erasmus MC on real-world evidence. Occasional philosopher."
+  avatar           : "/assets/images/CV foto.png"
+  bio              : "Physics engineer with a touch of (pharmaco)epidemiology. PhD in Applied and Computational Physics (BIOCOM-SC, UPC). Postdoc at Erasmus MC on real-world evidence. I have yet to be convinced that a screen can catch a thought the way a page does."
   location         : "Rotterdam, Netherlands"
-  email            : "aida.perramon.m@gmail.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -49,9 +49,9 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-6057-5127"
-
-# Navigation — crea el archivo _data/navigation.yml con esto:
-# (lo detallo abajo)
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aida.perramon.m@gmail.com"
 
 # Reading Files
 include:
