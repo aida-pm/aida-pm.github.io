@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: home
+layout: singletitle
 permalink: /blog/
 author_profile: true
 ---
