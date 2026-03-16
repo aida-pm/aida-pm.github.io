@@ -11,7 +11,7 @@ author_profile: true
 ### Resumen de carpetas
 ```
 _posts/
-├── 2026-03-16-IA-a-les-aules.md
+├── 2026-03-16-IA-aules.md
 
 _pages/
 └── blog.md
