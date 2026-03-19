@@ -1,6 +1,6 @@
 
 ---
-layout: single
+layout: home
 title: "About"
 permalink: /about/
 author_profile: true
