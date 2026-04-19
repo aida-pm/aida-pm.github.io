@@ -1,6 +1,6 @@
 
 ---
-layout: home
+layout: single
 title: "About"
 permalink: /about/
 author_profile: true
@@ -13,3 +13,12 @@ My work shifted toward what felt most urgent: mathematical modelling of infectio
 I am currently a postdoc at Erasmus MC (Rotterdam) as part of the [GREG project](https://ihi-greg.eu/project/), working on real-world evidence generation for medicine and medical device evaluation across Europe.
 
 One of the things I enjoy most about academic life is science communication and teaching — perhaps because of my love for writing. Outside the office, you will probably find me with a good book in hand, or a pencil and notebook, writing down story and poem ideas on the go.
+
+---
+
+## Research Interests
+
+- Mathematical and computational modelling of infectious diseases  
+- Pharmacoepidemiology and real-world evidence  
+- Paediatric public health  
+- Causal inference in observational studies
