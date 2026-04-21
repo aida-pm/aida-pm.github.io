@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
-
 Perramon-Malavez, A., Ye, Q., López, D. _et al._ Real-time prediction of influenza and respiratory syncytial virus epidemics in primary care using the Gompertz model. _Sci Rep_ 16, 5763 (2026). DOI: 10.1038/s41598-026-36519-w
 
 Coma, E., Martínez-Marcos, M., Hermosilla, E. _et al._ Impact of nirsevimab immunoprophylaxis on respiratory syncytial virus-related outcomes in hospital and primary care after two consecutive seasons: a population-based retrospective cohort study in infants in their second year of life in Catalonia, Spain. _Eur J Pediatr_ 184, 616 (2025). DOI: 10.1007/s00431-025-06440-x
