@@ -1,10 +1,10 @@
-
 ---
 layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 
 **GREG - Testing, improving, and co-creating Guidance and Tools for Real World Evidence Generation and Use for Decision-Making in Europe** (currently)
 > The GREG project creates, tests, and shares practical, evidence-based guidance and tools to help generate and use Real-World Evidence (RWE). By improving how RWE informs the development and evaluation of medicines, medical devices, and drug-device combinations, GREG supports better decision-making for regulators and Health Technology Assessment (HTA) bodies.
