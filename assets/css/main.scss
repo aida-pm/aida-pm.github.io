@@ -8,8 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
 .author__avatar img {
   max-width: 180px;
   width: 100%;
+}
+.page__content p {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
 }
